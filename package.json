@@ -1,0 +1,11 @@
+{
+    "name": "succinct",
+    "version": "1.0.0",
+    "description": "A tiny jQuery plugin for truncating multiple lines of text",
+    "url": "https://github.com/Traackr/succinct",
+    "main": "jQuery.succinct.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Traackr/succinct"
+    }
+}
